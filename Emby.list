@@ -1,7 +1,9 @@
 # NAME: Emby
-# UPDATE: 2020-12-11
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
-DOMAIN-SUFFIX,emby.wtf,Emby
-DOMAIN-SUFFIX,plusmedia.site,Emby
-DOMAIN-SUFFIX,mickeycloud.com,Emby
+# UPDATE: 2021-3-28
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,kozow.com
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,neko.re
+IP-CIDR,193.122.126.235/32,no-resolve
+IP-CIDR,163.172.41.22/32,no-resolve
