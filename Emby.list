@@ -5,5 +5,6 @@ DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,kozow.com
 DOMAIN-SUFFIX,mickeycloud.com
 DOMAIN-SUFFIX,neko.re
+DOMAIN-SUFFIX,emby.media
 IP-CIDR,193.122.126.235/32,no-resolve
 IP-CIDR,163.172.41.22/32,no-resolve
