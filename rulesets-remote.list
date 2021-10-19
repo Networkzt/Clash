@@ -5,9 +5,10 @@
 ⛔️ 广告拦截,https://raw.githubusercontent.com/Networkzt/Clash/main/Advertising.list
 🚫 运营劫持,https://raw.githubusercontent.com/Networkzt/Clash/main/Hijacking.list
 📺 NETFLIX,https://raw.githubusercontent.com/Networkzt/Clash/main/Netflix.list
+📺 Disney Plus,https://raw.githubusercontent.com/Networkzt/Clash/main/DisneyPlus.list
+🍎 AppleTV+,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/TV.list
 📺 HBO,https://raw.githubusercontent.com/Networkzt/Clash/main/HBO.list
 📺 Emby,https://raw.githubusercontent.com/Networkzt/Clash/main/Emby.list
-📺 Disney Plus,https://raw.githubusercontent.com/Networkzt/Clash/main/DisneyPlus.list
 📹 YouTube,https://raw.githubusercontent.com/Networkzt/Clash/main/YouTube.list
 📹 YouTube,https://raw.githubusercontent.com/Networkzt/Clash/main/YouTubeMusic.list
 🎵 Spotify,https://raw.githubusercontent.com/Networkzt/Clash/main/Spotify.list
@@ -26,6 +27,7 @@
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/AppStore.list
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/AppStoreConnect.list
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/FindMy.list
+🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/FitnessPlus.list
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/iCloud.list
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/Mail.list
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/Music.list
@@ -33,7 +35,6 @@
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/Siri.list
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/SoftwareUpdate.list
 🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/TestFlight.list
-🍎 苹果服务,https://raw.githubusercontent.com/Networkzt/Clash/main/Apple/TV.list
 🎯 全球直连,https://raw.githubusercontent.com/Networkzt/Clash/main/China.list
 🎯 全球直连,https://raw.githubusercontent.com/Networkzt/Clash/main/Domestic.list
 🎯 全球直连,https://raw.githubusercontent.com/Networkzt/Clash/main/Download.list
