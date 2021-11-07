@@ -86,6 +86,7 @@ DOMAIN-KEYWORD,avoddashs
 # > Apple TV
 DOMAIN,linear.tv.apple.com
 DOMAIN,play-edge.itunes.apple.com
+DOMAIN,uts-api.itunes.apple.com
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
