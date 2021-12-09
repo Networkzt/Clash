@@ -63,3 +63,8 @@ DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,ai.xiaomi.com
 DOMAIN-SUFFIX,music.xiaomi.com
 DOMAIN-SUFFIX,dmhmusic.com
+
+# (Podcast)
+# > Himalaya
+USER-AGENT,Himalaya*
+DOMAIN-SUFFIX,himalaya.com
