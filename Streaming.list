@@ -37,6 +37,9 @@ USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 
 # (Podcast)
+# > Himalaya
+USER-AGENT,Himalaya*
+DOMAIN-SUFFIX,himalaya.com
 # > Overcast
 USER-AGENT,Overcast*
 DOMAIN-SUFFIX,overcast.fm
