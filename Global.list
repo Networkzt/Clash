@@ -8,20 +8,36 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
-# > Apple
-DOMAIN,testflight.apple.com
+# > Clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
+DOMAIN,clubhouse.pubnubapi.com
 # > Crypto
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coincheck.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coinone.co.kr
+DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,korbit.co.kr
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,liquid.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,uniswap.org
@@ -475,7 +491,6 @@ DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zoom.us
 
 DOMAIN,cc.tvbs.com.tw
-DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,us.weibo.com
 
@@ -552,14 +567,27 @@ DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
 DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
 DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,tv.apple.com // Apple TV Web Preview
 DOMAIN,uts-api.itunes.apple.com
-# > App Store Web Preview
+# > Web Preview
 DOMAIN,apps.apple.com
+DOMAIN,books.apple.com
 DOMAIN,itunes.apple.com
+DOMAIN,tv.apple.com
 # > Look Up
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,lookup-api.apple.com
+# > Podcasts
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+# > News
+DOMAIN,gateway.icloud.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
 # ------
 # Google
 DOMAIN-SUFFIX,go.dev
