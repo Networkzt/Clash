@@ -26,4 +26,4 @@ DOMAIN,msg.umengcloud.com
 # > oyunfor
 DOMAIN-SUFFIX,oyunfor.com
 # > EPIN
-DOMAIN-KEYWORD,epin
+DOMAIN-SUFFIX,epin.com.tr
