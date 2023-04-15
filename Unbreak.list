@@ -23,3 +23,5 @@ DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
+# > oyunfor
+DOMAIN-SUFFIX,oyunfor.com
