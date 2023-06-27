@@ -465,7 +465,7 @@ DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,kanimg.com
 DOMAIN-SUFFIX,kankan.com
 DOMAIN-SUFFIX,p2cdn.com
-DOMAIN-SUFFIX,sandai.net
+#DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
