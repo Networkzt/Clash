@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,speed.dler.io
 
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
+
+
+DOMAIN-SUFFIX,netspeedtestmaster.com
+DOMAIN,speedtest.macpaw.com
